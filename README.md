@@ -63,3 +63,10 @@ O filtro projetado apresentou resultados promissores, entretanto, na banda de pa
 >[6] Romero, S., Mañanas, M. A., & Barbanoj, M. J. (2008). A comparative study of automatic techniques for ocular artifact reduction in spontaneous EEG signals based on clinical target variables: a simulation case. Computers in biology and medicine, 38(3), 348-360.
 >
 >[7] Urigüen, J. A., & Garcia-Zapirain, B. (2015). EEG artifact removal—state-of-the-art and guidelines. Journal of neural engineering, 12(3), 031001.
+
+## Links Úteis
+>BCI Competition IV:
+>https://github.com/danilosl/Learning-PDS
+>
+>Repositório da ferramenta pyfda no GitHub
+>https://github.com/chipmuenk/pyfda
