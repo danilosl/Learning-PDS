@@ -66,7 +66,7 @@ O filtro projetado apresentou resultados promissores, entretanto, na banda de pa
 
 ## Links Úteis
 >BCI Competition IV:
->https://github.com/danilosl/Learning-PDS
+>https://www.bbci.de/competition/iv/#dataset2a
 >
->Repositório da ferramenta pyfda no GitHub
+>Repositório da ferramenta pyfda no GitHub:
 >https://github.com/chipmuenk/pyfda
