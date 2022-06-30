@@ -39,6 +39,11 @@ $ git clone https://github.com/danilosl/Learning-PDS.git
 
 ## Resultados
 
+<p align="center">
+  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_brutos.svg"/>
+  <img src="https://github.com/danilosl/Learning-PDS/raw/main/img/sinais_filtrados.svg"/>
+</p>
+
 Este projeto, buscou percorrer os principais tópicos relacionados a projeção de filtros digitais, juntamente com um estudo de caso da influência do biopotencial indesejado dos movimentos oculares em sinais de EEG, afim de contribuir com a melhor compressão da problemática e propor um filtro capaz de minimizar essa influência.
 
 O filtro projetado apresentou resultados promissores, entretanto, na banda de passagem do filtro, ainda se encontram influências dos movimentos oculares. Como trabalhos futuros é sugerido a agregação de outras técnicas de remoção de artefatos dos sinais de EEG, como o método Local SSA (Local Singular Spectrum Analysis) que remove os artefatos oculares sem perder amostras do sinal.
