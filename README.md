@@ -45,16 +45,16 @@ O filtro projetado apresentou resultados promissores, entretanto, na banda de pa
 
 ## Referências
 
-[1] DE NORONHA AMABILE, Renato Augusto. Remoção de artefatos e análise de parâmetros espectrais em sinais de EEG: efeitos do fármaco flunitrazepam. 2008.
-
-[2] DUTRA, O. O. Um Amplificador Neural de baixo ruído e baixa potência utilizando uma topologia Folded Cascode OTA com malha de realimentação PID e ganho ajustável para EEG SoC Arrays. 2012. 85 f. Dissertação (Mestrado) - Curso de Engenharia Elétrica, Universidade Federal de Itajubá, Itajubá, 2012.
-
-[3] LATHI, Bhagwandas Pannalal. Sinais e sistemas lineares-2. Bookman, 2006.
-
-[4] NIDAL, Kamel; MALIK, Aamir Saeed (Ed.). EEG/ERP analysis: methods and applications. Crc Press, 2014.
-
-[5] OPPENHEIM, Alan V.; SCHAFER, Ronald W. Processamento em tempo discreto de sinais. Tradução Daniel Vieira. 3ª ed.-São Paulo: Pearson Education do Brasil, 2012.
-
-[6] Romero, S., Mañanas, M. A., & Barbanoj, M. J. (2008). A comparative study of automatic techniques for ocular artifact reduction in spontaneous EEG signals based on clinical target variables: a simulation case. Computers in biology and medicine, 38(3), 348-360.
-
-[7] Urigüen, J. A., & Garcia-Zapirain, B. (2015). EEG artifact removal—state-of-the-art and guidelines. Journal of neural engineering, 12(3), 031001.
+>[1] DE NORONHA AMABILE, Renato Augusto. Remoção de artefatos e análise de parâmetros espectrais em sinais de EEG: efeitos do fármaco flunitrazepam. 2008.
+>
+>[2] DUTRA, O. O. Um Amplificador Neural de baixo ruído e baixa potência utilizando uma topologia Folded Cascode OTA com malha de realimentação PID e ganho ajustável para EEG SoC Arrays. 2012. 85 f. Dissertação (Mestrado) - Curso de Engenharia Elétrica, Universidade Federal de Itajubá, Itajubá, 2012.
+>
+>[3] LATHI, Bhagwandas Pannalal. Sinais e sistemas lineares-2. Bookman, 2006.
+>
+>[4] NIDAL, Kamel; MALIK, Aamir Saeed (Ed.). EEG/ERP analysis: methods and applications. Crc Press, 2014.
+>
+>[5] OPPENHEIM, Alan V.; SCHAFER, Ronald W. Processamento em tempo discreto de sinais. Tradução Daniel Vieira. 3ª ed.-São Paulo: Pearson Education do Brasil, 2012.
+>
+>[6] Romero, S., Mañanas, M. A., & Barbanoj, M. J. (2008). A comparative study of automatic techniques for ocular artifact reduction in spontaneous EEG signals based on clinical target variables: a simulation case. Computers in biology and medicine, 38(3), 348-360.
+>
+>[7] Urigüen, J. A., & Garcia-Zapirain, B. (2015). EEG artifact removal—state-of-the-art and guidelines. Journal of neural engineering, 12(3), 031001.
